@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 console.log(chalk.bgCyanBright("\t\t\t WELCOME TO MY AUTOMATED TELLER MACHINE\n\n"));
 import inquirer from "inquirer";
 import chalk from "chalk";

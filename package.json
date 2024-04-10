@@ -1,9 +1,10 @@
 {
-  "name": "project-atm",
+  "name": "f4A-Project-ATM",
   "version": "1.0.0",
   "description": "THIS IS A CLI BASED Automated Teller Machine (ATM)",
   "main": "index.js",
   "type": "module",
+  "bin": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
